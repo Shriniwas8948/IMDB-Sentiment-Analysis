@@ -33,7 +33,7 @@ nltk.download('stopwords')
 
 You can use the IMDB dataset from Keras or download from Kaggle. 
 
-![Dataset](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis)
+[Dataset](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis)
 
 ---
 
